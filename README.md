@@ -6,7 +6,7 @@ Simple mobile application for executing long running tasks.
 
 
 ### Installing
-You can download the final apk [here]([https://drive.google.com/file/d/1siGxSmiyh8fQ6qxTvUTiYHNIZ-Q_CtSt/view?usp=sharing](https://drive.google.com/file/d/1HEk9PhcgM9TyL0IgyCqclEi7Kz9-nWi4/view?usp=sharing))
+You can download the final apk [here](https://drive.google.com/file/d/1HEk9PhcgM9TyL0IgyCqclEi7Kz9-nWi4/view?usp=sharing)
 
 #### Project characteristics and tech-stack
 * Tech-stack
